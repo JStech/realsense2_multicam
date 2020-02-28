@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="multicam" name="multicam" type="multicam" />
+</launch>
